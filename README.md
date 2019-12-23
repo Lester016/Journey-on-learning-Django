@@ -4,7 +4,7 @@ The tutorials I followed is the actual django documentation.
 ## Every commit is corresponding on every part of the tutorial.
 Browse the repository in a particular commit of the project if you want to see every code(progress/steps) I did while following the tutorial.
 
-### Writing your first Django app, part 1 - Walkthrough of setting and running up an app.
+#### Writing your first Django app, part 1 - Walkthrough of setting and running up an app.
 https://docs.djangoproject.com/en/2.2/intro/tutorial01/.
 
 #### Writing your first Django app, part 2 - Database, Model, and Django’s automatically-generated admin site.
